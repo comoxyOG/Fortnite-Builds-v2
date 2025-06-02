@@ -127,3 +127,5 @@
 | Build Version | CL Number | Download Link |
 |---------------|-----------|---------------|
 | 12.00 | N/A | [12.00](https://builds.fn-builds.net/12.00.7z)
+| 12.41 | CL-12905909 | [12.41](https://builds.fn-builds.net/12.41-CL-12905909.7z)
+| 12.50 | N/A | [12.50](https://builds.fn-builds.net/12.50.7z)
