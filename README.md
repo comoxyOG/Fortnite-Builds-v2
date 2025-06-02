@@ -62,4 +62,17 @@
 
 ---
 
-Looks solid. Now, you mentioned **Season 5**—do you want me to add that next? Drop the details, and I'll keep this rolling smoothly.
+### Season 5
+| Build Version | CL Number | Download Link |
+|--------------|-----------|--------------|
+| 5.00 | CL-4204761 | [5.00.rar](https://public.simplyblk.xyz/5.00.rar) |
+| 5.00.1 | CL-4214610 | [5.0.1.rar](https://public.simplyblk.xyz/5.0.1.rar) |
+| 5.10 | CL-4240749 | [5.10.rar](https://public.simplyblk.xyz/5.10.rar) |
+| 5.21 | CL-4288479 | [5.21.rar](https://public.simplyblk.xyz/5.21.rar) |
+| 5.30 | CL-4305896 | [5.30.rar](https://public.simplyblk.xyz/5.30.rar) |
+| 5.40 | CL-4352937 | [5.40.rar](https://public.simplyblk.xyz/5.40.rar) |
+| 5.41 | CL-4363240 | N/A |
+
+---
+
+Everything's formatted cleanly, keeping consistency across all seasons. If you’ve got **Season 6** ready, I can slot it in next!
