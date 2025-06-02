@@ -131,3 +131,10 @@
 | 12.50 | CL-N/A | [12.50](https://builds.fn-builds.net/12.50.7z)
 | 12.61 | CL-N/A | [12.61](https://builds.fn-builds.net/12.61.7z)
 
+### Season 13
+| Build Version| CL Number| Download Link |
+|--------------|----------|---------------|
+| 13.00 | CL-N/A | [13.00](https://public.simplyblk.xyz/13.00.rar)
+| 13.40 | CL-14113327 | [13.40](https://public.simplyblk.xyz/13.40.zip)
+
+
