@@ -6,14 +6,14 @@
 
 ### Pre Battle Royale
 | Build Version | CL Number | Download Link |
-|--------------|-----------|--------------|
+|---------------|-----------|----------------|
 | OT6.5 | CL-2870186 | [OT6.5.zip](https://public.simplyblk.xyz/OT0.6.5.zip) |
 
 ---
 
 ### Season 1 and 0
 | Build Version | CL Number | Download Link |
-|--------------|-----------|--------------|
+|---------------|-----------|----------------|
 | 1.7.2 | CL-3700114 | [1.7.2.zip](https://public.simplyblk.xyz/1.7.2.zip) |
 | 1.8 | CL-3724489 | [1.8.rar](https://public.simplyblk.xyz/1.8.rar) |
 | 1.8.1 | CL-3729133 | [1.8.1.rar](https://public.simplyblk.xyz/1.8.1.rar) |
@@ -26,7 +26,7 @@
 
 ### Season 2
 | Build Version | CL Number | Download Link |
-|--------------|-----------|--------------|
+|---------------|-----------|----------------|
 | 1.11 | CL-3807424 | [1.11.zip](https://public.simplyblk.xyz/1.11.zip) |
 | 2.1.0 | CL-3825894 | [2.1.0.zip](https://public.simplyblk.xyz/2.1.0.zip) |
 | 2.2.0 | CL-3841827 | [2.2.0.rar](https://public.simplyblk.xyz/2.2.0.rar) |
@@ -39,7 +39,7 @@
 
 ### Season 3
 | Build Version | CL Number | Download Link |
-|--------------|-----------|--------------|
+|---------------|-----------|----------------|
 | 3.0 | CL-3901517 | [3.0.zip](https://public.simplyblk.xyz/3.0.zip) |
 | 3.1 | CL-3915963 | [3.1.rar](https://public.simplyblk.xyz/3.1.rar) |
 | 3.1.1 | CL-3917250 | [3.1.1.zip](https://public.simplyblk.xyz/3.1.1.zip) |
@@ -52,7 +52,7 @@
 
 ### Season 4
 | Build Version | CL Number | Download Link |
-|--------------|-----------|--------------|
+|---------------|-----------|----------------|
 | 4.0 | CL-4039451 | [4.0.zip](https://public.simplyblk.xyz/4.0.zip) |
 | 4.1 | CL-4053532 | [4.1.zip](https://public.simplyblk.xyz/4.1.zip) |
 | 4.2 | CL-4072250 | [4.2.zip](https://public.simplyblk.xyz/4.2.zip) |
@@ -64,7 +64,7 @@
 
 ### Season 5
 | Build Version | CL Number | Download Link |
-|--------------|-----------|--------------|
+|---------------|-----------|----------------|
 | 5.00 | CL-4204761 | [5.00.rar](https://public.simplyblk.xyz/5.00.rar) |
 | 5.00.1 | CL-4214610 | [5.0.1.rar](https://public.simplyblk.xyz/5.0.1.rar) |
 | 5.10 | CL-4240749 | [5.10.rar](https://public.simplyblk.xyz/5.10.rar) |
@@ -75,4 +75,61 @@
 
 ---
 
-Everything's formatted cleanly, keeping consistency across all seasons. If you’ve got **Season 6** ready, I can slot it in next!
+### Season 6
+| Build Version | CL Number | Download Link |
+|---------------|-----------|----------------|
+| 6.00 | CL-4395664 | [6.00.rar](https://public.simplyblk.xyz/6.00.rar) |
+| 6.00 | CL-4402180 | N/A |
+| 6.01 | CL-4417689 | [6.01.rar](https://public.simplyblk.xyz/6.01.rar) |
+| 6.01.1 | CL-4424678 | [6.1.1.rar](https://public.simplyblk.xyz/6.1.1.rar) |
+| 6.02 | CL-4442095 | [6.02.rar](https://public.simplyblk.xyz/6.02.rar) |
+| 6.02.1 | CL-4461277 | [6.2.1.rar](https://public.simplyblk.xyz/6.2.1.rar) |
+| 6.10 | CL-4464155 | [6.10.rar](https://public.simplyblk.xyz/6.10.rar) |
+| 6.10.1 | CL-4476098 | [6.10.1.rar](https://public.simplyblk.xyz/6.10.1.rar) |
+| 6.10.2 | CL-4480234 | [6.10.2.rar](https://public.simplyblk.xyz/6.10.2.rar) |
+| 6.20 | CL-4497486 | N/A |
+| 6.21 | CL-4526925 | [6.21.rar](https://public.simplyblk.xyz/6.21.rar) |
+| 6.22 | CL-4543176 | [6.22.rar](https://public.simplyblk.xyz/6.22.rar) |
+| 6.30 | CL-4573096 | [6.30.rar](https://public.simplyblk.xyz/6.30.rar) |
+| 6.31 | CL-4573279 | [6.31.rar](https://public.simplyblk.xyz/6.31.rar) |
+
+---
+
+### Season 7
+| Build Version | CL Number | Download Link |
+|---------------|-----------|----------------|
+| 7.00 | CL-4629139 | [7.00.rar](https://public.simplyblk.xyz/7.00.rar) |
+| 7.10 | CL-4667333 | [7.10.rar](https://public.simplyblk.xyz/7.10.rar) |
+| 7.20 | CL-4727874 | [7.20.rar](https://public.simplyblk.xyz/7.20.rar) |
+| 7.30 | CL-4834550 | [7.30.zip](https://public.simplyblk.xyz/7.30.zip) |
+| 7.40 | CL-5046157 | [7.40.rar](https://public.simplyblk.xyz/7.40.rar) |
+
+---
+
+### Season 8
+| Build Version | CL Number | Download Link |
+|---------------|-----------|----------------|
+| 8.00 | CL-5203069 | [8.00.zip](https://public.simplyblk.xyz/8.00.zip) |
+| 8.01 | CL-N/A | N/A |
+| 8.10 | CL-N/A | N/A |
+| 8.11 | CL-N/A | N/A |
+| 8.20 | CL-N/A | [8.20.rar](https://public.simplyblk.xyz/8.20.rar) |
+| 8.30 | CL-N/A | [8.30.rar](https://public.simplyblk.xyz/8.30.rar) |
+| 8.40 | CL-N/A | [8.40.zip](https://public.simplyblk.xyz/8.40.zip) |
+| 8.50 | CL-6058028 | [8.50.zip](https://public.simplyblk.xyz/8.50.zip) |
+| 8.51 | CL-N/A | [8.51.rar](https://public.simplyblk.xyz/8.51.rar) |
+
+---
+
+### Season 9
+| Build Version | CL Number | Download Link |
+|---------------|-----------|----------------|
+| 9.00 | CL-6337466 | [9.00.zip](https://public.simplyblk.xyz/9.00.zip) |
+| 9.01 | CL-6428087 | [9.01.zip](https://public.simplyblk.xyz/9.01.zip) |
+| 9.10 | CL-6639283 | [9.10.rar](https://public.simplyblk.xyz/9.10.rar) |
+| 9.20 | CL-N/A | N/A |
+| 9.21 | CL-6922310 | [9.21.zip](https://public.simplyblk.xyz/9.21.zip) |
+| 9.30 | CL-7095426 | [9.30.zip](https://public.simplyblk.xyz/9.30.zip) |
+| 9.40 | CL-7315705 | [9.40.zip](https://public.simplyblk.xyz/9.40.zip) |
+| 9.41 | CL-7609292 | [9.41.rar](https://public.simplyblk.xyz/9.41.rar) |
+
