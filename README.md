@@ -1,15 +1,7 @@
-# Fortnite-Builds-v2
-
-## Work In Progress (WIP)
-
----
-
 ### Pre Battle Royale
 | Build Version | CL Number | Download Link |
 |---------------|-----------|----------------|
 | OT6.5 | CL-2870186 | [OT6.5.zip](https://public.simplyblk.xyz/OT0.6.5.zip) |
-
----
 
 ### Season 1 and 0
 | Build Version | CL Number | Download Link |
@@ -22,8 +14,6 @@
 | 1.9.1 | CL-3775276 | [1.9.1.rar](https://public.simplyblk.xyz/1.9.1.rar) |
 | 1.10 | CL-3790078 | [1.10.rar](https://public.simplyblk.xyz/1.10.rar) |
 
----
-
 ### Season 2
 | Build Version | CL Number | Download Link |
 |---------------|-----------|----------------|
@@ -34,8 +24,6 @@
 | 2.4.0 | CL-3858292 | [2.4.0.zip](https://public.simplyblk.xyz/2.4.0.zip) |
 | 2.4.2 | CL-3870737 | [2.4.2.zip](https://public.simplyblk.xyz/2.4.2.zip) |
 | 2.5.0 | CL-3889387 | [2.5.0.rar](https://public.simplyblk.xyz/2.5.0.rar) |
-
----
 
 ### Season 3
 | Build Version | CL Number | Download Link |
@@ -48,8 +36,6 @@
 | 3.5 | CL-4008490 | [3.5.rar](https://public.simplyblk.xyz/3.5.rar) |
 | 3.6 | CL-4019403 | [3.6.zip](https://public.simplyblk.xyz/3.6.zip) |
 
----
-
 ### Season 4
 | Build Version | CL Number | Download Link |
 |---------------|-----------|----------------|
@@ -59,8 +45,6 @@
 | 4.4 | CL-4117433 | [4.4.rar](https://public.simplyblk.xyz/4.4.rar) |
 | 4.4.1 | CL-4127312 | N/A |
 | 4.5 | CL-4159770 | [4.5.rar](https://public.simplyblk.xyz/4.5.rar) |
-
----
 
 ### Season 5
 | Build Version | CL Number | Download Link |
@@ -72,8 +56,6 @@
 | 5.30 | CL-4305896 | [5.30.rar](https://public.simplyblk.xyz/5.30.rar) |
 | 5.40 | CL-4352937 | [5.40.rar](https://public.simplyblk.xyz/5.40.rar) |
 | 5.41 | CL-4363240 | N/A |
-
----
 
 ### Season 6
 | Build Version | CL Number | Download Link |
@@ -93,8 +75,6 @@
 | 6.30 | CL-4573096 | [6.30.rar](https://public.simplyblk.xyz/6.30.rar) |
 | 6.31 | CL-4573279 | [6.31.rar](https://public.simplyblk.xyz/6.31.rar) |
 
----
-
 ### Season 7
 | Build Version | CL Number | Download Link |
 |---------------|-----------|----------------|
@@ -103,8 +83,6 @@
 | 7.20 | CL-4727874 | [7.20.rar](https://public.simplyblk.xyz/7.20.rar) |
 | 7.30 | CL-4834550 | [7.30.zip](https://public.simplyblk.xyz/7.30.zip) |
 | 7.40 | CL-5046157 | [7.40.rar](https://public.simplyblk.xyz/7.40.rar) |
-
----
 
 ### Season 8
 | Build Version | CL Number | Download Link |
@@ -119,17 +97,28 @@
 | 8.50 | CL-6058028 | [8.50.zip](https://public.simplyblk.xyz/8.50.zip) |
 | 8.51 | CL-N/A | [8.51.rar](https://public.simplyblk.xyz/8.51.rar) |
 
----
-
 ### Season 9
 | Build Version | CL Number | Download Link |
 |---------------|-----------|----------------|
 | 9.00 | CL-6337466 | [9.00.zip](https://public.simplyblk.xyz/9.00.zip) |
 | 9.01 | CL-6428087 | [9.01.zip](https://public.simplyblk.xyz/9.01.zip) |
-| 9.10 | CL-6639283 | [9.10.rar](https://public.simplyblk.xyz/9.10.rar) |
-| 9.20 | CL-N/A | N/A |
-| 9.21 | CL-6922310 | [9.21.zip](https://public.simplyblk.xyz/9.21.zip) |
-| 9.30 | CL-7095426 | [9.30.zip](https://public.simplyblk.xyz/9.30.zip) |
-| 9.40 | CL-7315705 | [9.40.zip](https://public.simplyblk.xyz/9.40.zip) |
-| 9.41 | CL-7609292 | [9.41.rar](https://public.simplyblk.xyz/9.41.rar) |
+| 9.10 | CL-6499783 | [9.10.zip](https://public.simplyblk.xyz/9.10.zip) |
+| 9.20 | CL-6646763 | [9.20.zip](https://public.simplyblk.xyz/9.20.zip) |
+| 9.30 | CL-6747107 | [9.30.zip](https://public.simplyblk.xyz/9.30.zip) |
 
+### Season 10
+| Build Version | CL Number | Download Link |
+|---------------|-----------|----------------|
+| 10.00 | CL-7704164 | [10.00.zip](https://public.simplyblk.xyz/10.00.zip) |
+| 10.10 | CL-7955722 | [10.10.zip](https://public.simplyblk.xyz/10.10.zip) |
+| 10.20 | CL-8456527 | [10.20.zip](https://public.simplyblk.xyz/10.20.zip) |
+| 10.30 | CL-N/A | N/A |
+| 10.31 | CL-8723043 | [10.31.zip](https://public.simplyblk.xyz/10.31.zip) |
+| 10.40 | CL-9380822 | [10.40.rar](https://public.simplyblk.xyz/10.40.rar) |
+
+### Season 11
+| Build Version | CL Number | Download Link |
+|---------------|-----------|----------------|
+| 11.00 | CL-9603448 | [11.00.zip](https://public.simplyblk.xyz/11.00.zip) |
+| 11.10 | CL-9901083 | [11.10.zip](https://public.simplyblk.xyz/11.10.zip) |
+| 11.31 | CL-10800459 | [11.31.rar](https://public.simplyblk.xyz/11.31.rar) |
