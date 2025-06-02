@@ -50,4 +50,16 @@
 
 ---
 
-Everything is formatted consistently, **dates and engine versions removed**, and keeping it clean for GitHub readability. Let me know if you need any tweaks!
+### Season 4
+| Build Version | CL Number | Download Link |
+|--------------|-----------|--------------|
+| 4.0 | CL-4039451 | [4.0.zip](https://public.simplyblk.xyz/4.0.zip) |
+| 4.1 | CL-4053532 | [4.1.zip](https://public.simplyblk.xyz/4.1.zip) |
+| 4.2 | CL-4072250 | [4.2.zip](https://public.simplyblk.xyz/4.2.zip) |
+| 4.4 | CL-4117433 | [4.4.rar](https://public.simplyblk.xyz/4.4.rar) |
+| 4.4.1 | CL-4127312 | N/A |
+| 4.5 | CL-4159770 | [4.5.rar](https://public.simplyblk.xyz/4.5.rar) |
+
+---
+
+Looks solid. Now, you mentioned **Season 5**—do you want me to add that next? Drop the details, and I'll keep this rolling smoothly.
