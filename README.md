@@ -122,3 +122,8 @@
 | 11.00 | CL-9603448 | [11.00.zip](https://public.simplyblk.xyz/11.00.zip) |
 | 11.10 | CL-9901083 | [11.10.zip](https://public.simplyblk.xyz/11.10.zip) |
 | 11.31 | CL-10800459 | [11.31.rar](https://public.simplyblk.xyz/11.31.rar) |
+
+### Season 12
+| Build Version | CL Number | Download Link |
+|---------------|-----------|---------------|
+| 12.00 | N/A | [12.00](https://builds.fn-builds.net/12.00.7z)
