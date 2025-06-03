@@ -211,6 +211,15 @@
 | 21.51 | CL-21735703 | [21.51](https://builds.fn-builds.net/21.51-CL-21735703.7z)
 
 ### Season 22
+| Build Version | CL Number | Download Link | 
+|---------------|-----------|---------------|
+| 22.00 | CL-22149829 | [22.00](https://builds.fn-builds.net/22.00-CL-22149829.7z)
+| 22.10 | CL-22429549 | [22.10](https://builds.fn-builds.net/22.10-CL-22429549.7z)
+| 22.20 | CL-22600409 | [22.20](https://builds.fn-builds.net/22.20-CL-22600409.7z)
+| 22.40 | CL-23070899 | [22.40](https://builds.fn-builds.net/22.40-CL-23070899.7z)
+
+## AGAIN THIS IS A WIP AND WILL BE FINISHED ANOTHER TIME!
+
 
 
 
