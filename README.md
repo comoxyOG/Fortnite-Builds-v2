@@ -247,6 +247,15 @@ LINKS OWNED BY [n6617x](https://github.com/n6617x/Fortnitebuilds) and [Fn Builds
 | 25.00 | CL-25909622 | [25.00](https://builds.fn-builds.net/25.00-CL-25909622.7z)
 | 25.10 | CL-26000959 | [25.10](https://builds.fn-builds.net/25.10-CL-26000959.7z)
 | 25.11 | CL-26171015 | [25.11](https://builds.fn-builds.net/25.11-CL-26171015.7z)
+| 25.20 | CL-26474516 | [25.20](https://builds.fn-builds.net/25.20-CL-26474516.7z)
+| 25.20 | CL-26629111 | [25.20](https://builds.fn-builds.net/25.20-CL-26629111.7z)
+| 25.30 | CL-26867995 | [25.30](https://builds.fn-builds.net/25.30-CL-26867995.7z)
+
+### Season 26
+| Build Version | CL Number | Download Link | 
+|---------------|-----------|---------------|
+| 26.00 | CL-27233190 | [26.00](https://builds.fn-builds.net/26.00-CL-27233190.zip)
+
 
 
 
