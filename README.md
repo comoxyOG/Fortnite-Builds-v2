@@ -259,6 +259,56 @@ LINKS OWNED BY [n6617x](https://github.com/n6617x/Fortnitebuilds) and [Fn Builds
 | 26.20 | CL-28096793 | [26.20](https://builds.fn-builds.net/26.20-CL-28096793.7z)
 | 26.30 | CL-28688692 | [26.30](https://builds.fn-builds.net/26.30-CL-28688692.7z)
 
+### Season 27
+| Build Version | CL Number | Download Link | 
+|---------------|-----------|---------------|
+| 27.00 | CL-29072304 | [27.00](https://builds.fn-builds.net/27.00-CL-29072304.7z)
+| 27.10 | CL-29552510 | [27.10](https://builds.fn-builds.net/27.10-CL-29552510.7z)
+| 27.11 | CL-29739262 | [27.11](https://builds.fn-builds.net/27.11-CL-29739262.7z)
+
+### Season 28
+| Build Version | CL Number | Download Link | 
+|---------------|-----------|---------------|
+| 28.00 | CL-29915848 | [28.00](https://builds.fn-builds.net/28.00-CL-29915848.7z)
+| 28.01 | CL-30106568 | [28.01](https://builds.fn-builds.net/28.01-CL-30106568.7z)
+| 28.10 | CL-30676362 | [28.10](https://builds.fn-builds.net/28.10-CL-30676362.7z)
+| 28.20 | CL-31286935 | [28.20](https://builds.fn-builds.net/28.20-CL-31286935.7z)
+| 28.30 | CL-31511038 | [28.30](https://builds.fn-builds.net/28.30-CL-31511038.7z)
+
+### Season 29
+| Build Version | CL Number | Download Link | 
+|---------------|-----------|---------------|
+| 29.00 | CL-32116959 | [29.00](https://builds.fn-builds.net/29.00-CL-32116959.7z)
+| 29.01 | CL-32291970 | [29.01](https://builds.fn-builds.net/29.01-CL-32291970.7z)
+| 29.10 | CL-32391220 | [29.10](https://builds.fn-builds.net/29.10-CL-32391220.7z)
+| 29.20 | CL-32716692 | [29.20](https://builds.fn-builds.net/29.20-CL-32716692.7z)
+| 29.30 | CL-32982357 | [29.30](https://builds.fn-builds.net/29.30-CL-32982357.7z)
+| 29.40 | CL-33629566 | [29.40](https://builds.fn-builds.net/29.40-CL-33629566.7z)
+
+### Season 30
+| Build Version | CL Number | Download Link |
+|---------------|-----------|---------------|
+| 30.00 | CL-33962396 | [30.00](https://builds.fn-builds.net/30.00-CL-33962396.7z)
+| 30.10 | CL-34261954 | [30.10](https://builds.fn-builds.net/30.10-CL-34261954.7z)
+| 30.20 | CL-34597766 | [30.20](https://builds.fn-builds.net/30.20-CL-34597766.7z)
+| 30.30 | CL-34891016 | [30.30](https://builds.fn-builds.net/30.30-CL-34891016.7z)
+
+### Season 31
+| Build Version | CL Number | Download Link | 
+|---------------|-----------|---------------|
+| 31.00 | CL-35447195 | [31.00](https://builds.fn-builds.net/31.00-CL-35447195.7z)
+| 31.10 | CL-35815136 | [31.10](https://builds.fn-builds.net/31.10-CL-35815136.7z)
+| 31.30 | CL-36600465 | [31.30](https://builds.fn-builds.net/31.30-CL-36600465.7z)
+
+### Season 32
+| Build Version | CL Number | Download Link | 
+|---------------|-----------|---------------|
+| 32.00 | CL-37505882 | [32.00](https://builds.fn-builds.net/32.00-CL-37505882.7z)
+| 32.11 | CL-38202817 | [32.11](https://builds.fn-builds.net/32.11-CL-38202817.7z)
+
+
+
+
 
 
 
