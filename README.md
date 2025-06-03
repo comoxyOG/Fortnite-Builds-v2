@@ -219,6 +219,7 @@ LINKS OWNED BY [n6617x](https://github.com/n6617x/Fortnitebuilds), [Fn Builds.ne
 |---------------|-----------|---------------|
 | 19.10 | CL-N/A | [19.10](https://builds.fn-builds.net/19.10.rar)
 | 19.20 | CL-18775446| [19.20](https://builds.fn-builds.net/19.20-CL-18775446.7z)
+| 19.10 (SIMPLYBLK) | CL-N/A | [19.10 BLK](https://public.simplyblk.xyz/19.10.rar)
 
 ### Season 20
 | Build Version | CL Number | Download Link | 
