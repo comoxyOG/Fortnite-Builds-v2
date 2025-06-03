@@ -1,9 +1,22 @@
+### IF YOU NOTICE THAT HALF THE BUILDS DON'T WORK THIS IS DUE TO [FNBUILDS.NET](https://fn-builds.net/) BEING DOWN.
+
+
 ### CARBON PLS ADD TO DISCORD
 
 
 ### Fortnite Builds v2 OWNED BY COMOXY OG
 
-LINKS OWNED BY [n6617x](https://github.com/n6617x/Fortnitebuilds) and [Fn Builds.net](https://fn-builds.net/)
+LINKS OWNED BY [n6617x](https://github.com/n6617x/Fortnitebuilds), [Fn Builds.net](https://fn-builds.net/) AND [llamaqwerty](https://github.com/llamaqwerty/fortnite-builds-archive/tree/main?tab=readme-ov-file)
+
+**Seasons 0-18: [n6617x](https://github.com/n6617x/Fortnitebuilds)**
+**Season 19-34: [Fn Builds.net](https://fn-builds.net/)
+**34+: [llamaqwerty](https://github.com/llamaqwerty/fortnite-builds-archive/tree/main?tab=readme-ov-file)
+
+
+
+
+
+
 
 ### Pre Battle Royale
 | Build Version | CL Number | Download Link |
