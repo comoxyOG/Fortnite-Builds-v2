@@ -195,6 +195,23 @@
 | 19.10 | CL-N/A | [19.10](https://builds.fn-builds.net/19.10.rar)
 | 19.20 | CL-18775446| [19.20](https://builds.fn-builds.net/19.20-CL-18775446.7z)
 
+### Season 20
+| Build Version | CL Number | Download Link | 
+|---------------|-----------|---------------|
+| 20.40 | CL-20244966 | [20.40](https://builds.fn-builds.net/20.40-CL-20244966.7z)
+
+
+### Season 21
+| Build Version | CL Number | Download Link |
+|---------------|-----------|---------------|
+| 21.00 | CL-20463113 | [21.00](https://builds.fn-builds.net/21.00-CL-20463113.7z)
+| 21.20 | CL-21035704 | [21.20](https://builds.fn-builds.net/21.20-CL-21035704.7z)
+| 21.30 | CL-21155462 | [21.30](https://builds.fn-builds.net/21.30-CL-21155462.7z)
+| 21.40 | CL-21407327 | [21.40](https://builds.fn-builds.net/21.40-CL-21407327.7z)
+| 21.51 | CL-21735703 | [21.51](https://builds.fn-builds.net/21.51-CL-21735703.7z)
+
+### Season 22
+
 
 
 
