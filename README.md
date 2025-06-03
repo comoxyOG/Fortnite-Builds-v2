@@ -169,7 +169,7 @@
 | 16.40 | CL-16218553 | [16.40](https://public.simplyblk.xyz/16.40.rar)
 | 16.50 | CL-N/A | N/A
 
-## Season 17
+### Season 17
 | Build Version | CL Number | Download Link | 
 |---------------|-----------|---------------|
 | 17.00 | CL-N/A | N/A
@@ -179,15 +179,24 @@
 | 17.40 | CL-N/A | N/A
 | 17.50 | CL-N/A | [17.50](https://public.simplyblk.xyz/17.50.zip)
 
-## Season 18
+### Season 18
 | Build Version | CL Number | Download Link | 
 |---------------|-----------|---------------|
 | 18.00 | CL-17468642 | [18.00](https://builds.fn-builds.net/18.00-CL-17468642.7z)
 | 18.10 | CL-17661844 | [18.10](https://builds.fn-builds.net/18.10-CL-17661844.7z)
 | 18.20 | CL-17792290 | [18.20](https://builds.fn-builds.net/18.20-CL-17792290.7z)
-| 18.21 | CL-N/A | [18.21](https://builds.fn-builds.net/18.21-CL-17811397.7z)
-| 18.30 | CL-N/A | N/A
+| 18.21 | CL-17811397 | [18.21](https://builds.fn-builds.net/18.21-CL-17811397.7z)
+| 18.30 | CL-17882303 | [18.30](https://builds.fn-builds.net/18.30-CL-17882303.7z)
 | 18.40 | CL-N/A | [18.40](https://public.simplyblk.xyz/18.40.zip)
+
+### Season 19
+| Build Version | CL Number | Download Link | 
+|---------------|-----------|---------------|
+| 19.10 | CL-N/A | [19.10](https://builds.fn-builds.net/19.10.rar)
+| 19.20 | CL-18775446| [19.20](https://builds.fn-builds.net/19.20-CL-18775446.7z)
+
+
+
 
 
 
