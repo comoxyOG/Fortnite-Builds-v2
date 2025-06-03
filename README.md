@@ -1,3 +1,7 @@
+### Fortnite Builds v2 OWNED BY COMOXY OG
+
+LINKS OWNED BY [n6617x](https://github.com/n6617x/Fortnitebuilds) and [Fn Builds.net](https://fn-builds.net/)
+
 ### Pre Battle Royale
 | Build Version | CL Number | Download Link |
 |---------------|-----------|----------------|
