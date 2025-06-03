@@ -255,6 +255,9 @@ LINKS OWNED BY [n6617x](https://github.com/n6617x/Fortnitebuilds) and [Fn Builds
 | Build Version | CL Number | Download Link | 
 |---------------|-----------|---------------|
 | 26.00 | CL-27233190 | [26.00](https://builds.fn-builds.net/26.00-CL-27233190.zip)
+| 26.10 | CL-27681420 | [26.10](https://builds.fn-builds.net/26.10-CL-27681420.7z)
+| 26.20 | CL-28096793 | [26.20](https://builds.fn-builds.net/26.20-CL-28096793.7z)
+| 26.30 | CL-28688692 | [26.30](https://builds.fn-builds.net/26.30-CL-28688692.7z)
 
 
 
