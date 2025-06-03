@@ -306,13 +306,31 @@ LINKS OWNED BY [n6617x](https://github.com/n6617x/Fortnitebuilds) and [Fn Builds
 | 32.00 | CL-37505882 | [32.00](https://builds.fn-builds.net/32.00-CL-37505882.7z)
 | 32.11 | CL-38202817 | [32.11](https://builds.fn-builds.net/32.11-CL-38202817.7z)
 
+### Season 33
+| Build Version | CL Number | Download Link | 
+|---------------| ----------|--------------|
+| 33.10 | CL-38630093 | [33.10](https://builds.fn-builds.net/33.10-CL-38630093.7z)
+| 33.11 | CL-38773622 | [33.11](https://builds.fn-builds.net/33.11-CL-38773622.7z)
+| 33.20 | CL-39082670 | [33.20](https://builds.fn-builds.net/33.20-CL-39082670.7z)
+| 33.30 | CL-39435251 | [33.30](https://builds.fn-builds.net/33.30-CL-39435251.7z)
+
+### Season 34 
+| Build Version | CL Number | Download Link |
+|---------------|-----------|---------------|
+| 34.00 | CL-40085084 | [34.00](https://builds.fn-builds.net/34.00-CL-40085084.7z)
+| 34.10 | CL-40567068 | [32.10](https://builds.fn-builds.net/34.10-CL-40567068.7z)
+| 34.20 | CL-40965447 | [34.20](https://builds.fn-builds.net/34.20-CL-40965447.7z)
+| 34.30 | CL-41387772 | [34.30](https://builds.fn-builds.net/34.30-CL-41387772.7z)
+| 34.40 | CL-41753727 | [34.40](https://builds.fn-builds.net/34.40-CL-41753727.7z)
 
 
 
 
 
 
-## AGAIN THIS IS A WIP AND WILL BE FINISHED ANOTHER TIME!
+
+## Finsihed coding, more versions will be added soon!
+
 
 
 
