@@ -350,7 +350,7 @@ LINKS OWNED BY [n6617x](https://github.com/n6617x/Fortnitebuilds), [Fn Builds.ne
 | 34.30 | CL-41387772 | [34.30](https://builds.fn-builds.net/34.30-CL-41387772.7z)
 | 34.40 | CL-41753727 | [34.40](https://builds.fn-builds.net/34.40-CL-41753727.7z)
 
-### Season 35
+### Season 35 (CURRENT)
 | Build Version | CL Number | Download Link | 
 |---------------|-----------|--------------|
 | 35.00 | CL-42223143 | [35.00](https://cold1.gofile.io/download/web/d56c53c0-e6c8-4da2-899c-5f30434505ee/Fortnite_Version_35.00_CL_42223143.rar)
@@ -368,8 +368,7 @@ LINKS OWNED BY [n6617x](https://github.com/n6617x/Fortnitebuilds), [Fn Builds.ne
 
 
 
-
-## Finsihed coding, more versions will be added soon!
+### More versions will be added soon, as more Fortnite versions are released.
 
 
 
