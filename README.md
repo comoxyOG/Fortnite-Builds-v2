@@ -169,5 +169,17 @@
 | 16.40 | CL-16218553 | [16.40](https://public.simplyblk.xyz/16.40.rar)
 | 16.50 | CL-N/A | N/A
 
+## Season 17
+| Build Version | CL Number | Download Link | 
+|---------------|-----------|---------------|
+| 17.00 | CL-N/A | N/A
+| 17.10 | CL-N/A | N/A
+| 17.20 | CL-N/A | N/A
+| 17.30 | CL-N/A | [17.30](https://public.simplyblk.xyz/17.30.zip)
+| 17.40 | CL-N/A | N/A
+| 17.50 | CL-N/A | [17.50](https://public.simplyblk.xyz/17.50.zip)
+
+
+
 
 
