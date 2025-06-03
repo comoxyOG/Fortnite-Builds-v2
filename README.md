@@ -230,6 +230,20 @@
 | Build Version | CL Number | Download Link | 
 |---------------|-----------|---------------|
 | 24.00 | CL-24554913 | [24.00](https://builds.fn-builds.net/24.00-CL-24554913.zip)
+| 24.01 | CL-24672685 | [24.01](https://builds.fn-builds.net/24.01-CL-24672685.zip)
+| 24.10 | CL-24903530 | [24.10](https://builds.fn-builds.net/24.10-CL-24903530.zip)
+| 24.20 | CL-25156858 | [24.20](https://builds.fn-builds.net/24.20-CL-25156858.zip) 
+| 24.30 | CL-25521145 | [24.30](https://builds.fn-builds.net/24.40-CL-25521145.zip)
+| 24.40 | CL-25521145 | [24.40](https://builds.fn-builds.net/24.40-CL-25521145.zip)
+| 24.40 | CL-25595478 | [24.40](https://builds.fn-builds.net/24.40-CL-25595478.zip)
+
+### Season 25
+| Build Version | CL Number | Download Link | 
+|---------------|-----------|---------------|
+| 25.00 | CL-25909622 | [25.00](https://builds.fn-builds.net/25.00-CL-25909622.7z)
+| 25.10 | CL-26000959 | [25.10](https://builds.fn-builds.net/25.10-CL-26000959.7z)
+| 25.11 | CL-26171015 | [25.11](https://builds.fn-builds.net/25.11-CL-26171015.7z)
+
 
 
 ## AGAIN THIS IS A WIP AND WILL BE FINISHED ANOTHER TIME!
