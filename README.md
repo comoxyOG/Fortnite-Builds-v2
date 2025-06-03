@@ -11,10 +11,10 @@ LINKS OWNED BY [n6617x](https://github.com/n6617x/Fortnitebuilds), [Fn Builds.ne
 **Seasons 0-18: [n6617x](https://github.com/n6617x/Fortnitebuilds)**
 
 
-**Season 19-34: [Fn Builds.net](https://fn-builds.net/)
+**Season 19-34: [Fn Builds.net](https://fn-builds.net/)**
 
 
-**Seasons 35 above: [llamaqwerty](https://github.com/llamaqwerty/fortnite-builds-archive/tree/main?tab=readme-ov-file)
+**Seasons 35 above: [llamaqwerty](https://github.com/llamaqwerty/fortnite-builds-archive/tree/main?tab=readme-ov-file)**
 
 
 
